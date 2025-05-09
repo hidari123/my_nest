@@ -1,3 +1,10 @@
+/*
+ * @Author: hidari
+ * @Date: 2025-05-08 11:01:22
+ * @LastEditors: hidari
+ * @LastEditTime: 2025-05-08 14:01:33
+ * Copyright (c) 2025 by hidari, All Rights Reserved.
+ */
 import { Test, TestingModule } from '@nestjs/testing';
 import { INestApplication } from '@nestjs/common';
 import * as request from 'supertest';
